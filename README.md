@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @Lunardidi13
 - 👀 I’m interested in Web and Mobile Programming
-- 🌱 I’m currently learning Laravel, Bootstrap, and ReactJS. 
+- 🌱 I’m currently learning Laravel and Bootstrap.
+- 📈 I'm planning to learn JavaScript and ReactJS.
+- ⬆️ I'll also learn about Android programming using Android Studio.
 - 💞️ I’m not yet ready to look for collaborating. 
-- 📫 How to reach me -
+- 📫 How to reach me is via this GitHub profile.
 
 <!---
 Lunardidi13/Lunardidi13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
